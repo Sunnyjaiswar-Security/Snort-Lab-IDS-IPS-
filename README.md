@@ -1,5 +1,4 @@
 # Snort-Lab-IDS-IPS-
-<div align="center">
   <img src="01.jpg" alt="Snort Logo" width="300" style="border-radius:10px; border:2px solid #ccc;"/>
 
 ### Snort is a powerful open-source network intrusion detection and prevention system (IDS/IPS).
@@ -18,14 +17,23 @@ It can be used for real-time traffic analysis, packet logging, and detecting a w
 - **Alerting & Logging:** Snort generates alerts when it detects suspicious activity, notifying you of potential threats. It can also log traffic for analysis and forensic investigation.
 
 - **Intrusion Prevention (Optional):** In addition to detection, Snort can be configured to actively block identified threats by dropping packets or redirecting them.
-## Deployment 
+## Deployment:
 - **Packet Sniffer:** For passive monitoring and traffic analysis.
 - **IDS:** Alerts about suspicious activity but doesn’t actively block threats.
 - **IPS:** Actively blocks identified threats based on predefined rules.
-# 🔗 Bind Shell
-## Step:-01
+## Benefits:
+- **Open-source & Free:** Accessible to individuals and organizations of all sizes.
+- **Highly Customizable:** Rule-based system allows for tailoring Snort to your specific needs and threats.
+- **Lightweight & Efficient:** Runs effectively on various systems, even with limited resources.
+- **Widely Used & Supported:** Large community and plenty of available resources.
+## SNORT vs IDS vs IPS
+- **IDS:** Intrusion Detection System. Focuses on identifying suspicious activity but doesn’t necessarily block it.
+- **IPS:** Intrusion Prevention System. Actively blocks identified threats based on predefined rules.
+- **Snort:** Can function as both an IDS and an IPS, depending on your configuration.
 
-Fast check your target system is up & no open reminal type (ping -c 4 192.168.51.129)
+Overall, Snort is a versatile tool that can significantly enhance your network security posture. With its powerful capabilities and flexible deployment options, it’s a valuable asset for organizations of all sizes.
+
+# Setting up a Lab
 
 ![Screenshot 01](01.png)
 Snort is a powerful open-source network intrusion detection and prevention system (IDS/IPS).
