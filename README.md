@@ -3,9 +3,9 @@
   <img src="01.jpg" alt="Snort Logo" width="300" style="border-radius:10px; border:2px solid #ccc;"/>
 
 ### Snort is a powerful open-source network intrusion detection and prevention system (IDS/IPS).
-![Screenshot 01](01.png)
-* **Operating System**: Kali Linux
-* **Target OS**: Metasploitable 2
+<img width="474" height="258" alt="02" src="https://github.com/user-attachments/assets/50dda323-2bc7-405d-9600-1329e4d4ed06" />
+
+It can be used for real-time traffic analysis, packet logging, and detecting a wide range of malicious activities on your network.
 * **Network**: Isolated Virtual Network
 * **Shell Utility**: Netcat (nc)
 
