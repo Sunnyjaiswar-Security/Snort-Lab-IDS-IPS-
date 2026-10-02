@@ -53,6 +53,13 @@ sudo apt upgrade
 - ## Open command terminal
 - ## Paste the command
 ````bash
-sudo apt-get install snort
+sudo apt install snort -y
 ````
 <img width="1547" height="227" alt="Screenshot 2026-10-02 212938" src="https://github.com/user-attachments/assets/505a69e8-42f4-4a80-a09c-fa832e0f0b03" />
+
+- Check snort is install or not by checking version
+
+````bash
+snort -v
+````
+<img width="1201" height="286" alt="Screenshot 2026-10-02 213634" src="https://github.com/user-attachments/assets/51c411b7-ffad-47f1-b361-e00448173f21" />
