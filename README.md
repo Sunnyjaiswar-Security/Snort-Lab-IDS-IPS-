@@ -42,3 +42,17 @@ Overall, Snort is a versatile tool that can significantly enhance your network s
 sudo apt update
 ```
 <img width="1121" height="351" alt="Screenshot 2026-10-01 203818" src="https://github.com/user-attachments/assets/b296e853-26fc-4383-8c12-c14b4448b032" />
+
+
+```bash
+sudo apt upgrade
+```
+<img width="1561" height="361" alt="Screenshot 2026-10-02 211751" src="https://github.com/user-attachments/assets/b6902041-5743-43b2-813d-d9732acf134c" />
+
+## Installation on snort on Ubuntu Linux
+- ## Open command terminal
+- ## Paste the command
+````bash
+sudo apt-get install snort
+````
+<img width="1547" height="227" alt="Screenshot 2026-10-02 212938" src="https://github.com/user-attachments/assets/505a69e8-42f4-4a80-a09c-fa832e0f0b03" />
