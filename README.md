@@ -63,3 +63,10 @@ sudo apt install snort -y
 snort -v
 ````
 <img width="1201" height="286" alt="Screenshot 2026-10-02 213634" src="https://github.com/user-attachments/assets/51c411b7-ffad-47f1-b361-e00448173f21" />
+
+- ## check for your ifconfig
+````bash
+ifconfig
+````
+- For me it is eno1 and ip address is 192.168.51.128
+<img width="1097" height="342" alt="Screenshot 2026-10-02 214808" src="https://github.com/user-attachments/assets/4c1df4ec-ed41-4d53-a3d4-289ca964cc76" />
