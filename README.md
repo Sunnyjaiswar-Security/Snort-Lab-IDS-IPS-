@@ -35,5 +35,10 @@ Overall, Snort is a versatile tool that can significantly enhance your network s
 
 # Setting up a Lab
 
-![Screenshot 01](01.png)
-Snort is a powerful open-source network intrusion detection and prevention system (IDS/IPS).
+## Important Note : If any problem occur while installation search it on YouTube rather than Google.
+### Steps before installation
+- open terminal and run some commands
+```bash
+sudo apt update
+```
+<img width="1121" height="351" alt="Screenshot 2026-10-01 203818" src="https://github.com/user-attachments/assets/b296e853-26fc-4383-8c12-c14b4448b032" />
